@@ -17,7 +17,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://arxiv.org/abs/2311.07198" target='_blank'>Arxiv 2023</a> •
+        • <a href="https://ieeexplore.ieee.org/abstract/document/10772032" target='_blank'>TCSVT 2024</a> •
     </h4>
 </div>
 
