@@ -34,10 +34,10 @@
 #### Overview
 
 <p align="center">
-<img src='imgs/overview.png' width=800/> 
+<img src='assets/overview.jpg' width=800/> 
 </p>
 
 ---
 
 </div>
-The source code is comming!
+
