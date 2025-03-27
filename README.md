@@ -41,3 +41,6 @@
 
 </div>
 
+## ⚙️ Setup
+
+The experimental environments and command setup are based on [Lite-Mono](https://github.com/noahzn/Lite-Mono).
